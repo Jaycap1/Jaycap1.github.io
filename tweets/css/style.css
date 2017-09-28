@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+
+body{
+  background-color: #f9f9ca;
+}
+header {
+  margin: 3% 22% 1% 22%;
+  text-align: center;
+  padding: 0px;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  Background-color: #000000;
+}
+h1 {
+  color: #42f4c2;
+  font-size: 80px;
+}
+h2 {
+  color: #42f4c2;
+}
+h3 {
+  color: #42f4c2;
+}
+h4 {
+  color: #ff0245;
+}
+p{
+  font-family: 'Bitter', serif;
+  text-align: center;
+  padding: 2%;
+  font-size: 40px;
+}
+section {
+  margin: 5% ;
+  float: ;
+  width: ;
+}
+article {
+  padding: 3% 25% 5% 25%;
+  background-color: #c4d5f2;
+  margin: 5% 10% 5% 10%;
+  border: 3px solid black;
+}
+footer {
+  text-align: center;
+  padding: 0.02px;
+  font-family: 'Indie Flower', cursive;
+  Background-color: #000000;
+  clear: both;
+  margin: 3% 10% 1% 10%;
+}
+
